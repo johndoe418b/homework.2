@@ -25,7 +25,7 @@
 9. **Конец**
 
 ### Блок-схема
-# "Блок-схема задание 2.drawio.png"
+![Блок-схема задание 2.drawio.png](https://github.com/johndoe418b/homework.2/blob/master/Блок-схема%20задание%202.drawio.png)
 
 ## 2. Реализация программы
 
